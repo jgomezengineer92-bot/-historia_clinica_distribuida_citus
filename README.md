@@ -58,3 +58,13 @@ Simulación de Ataque: Modificación directa en CouchDB para verificar la detecc
 
 Prueba de Resiliencia: Apagado de nodos en el panel de control para demostrar la persistencia de la red.
 
+<img width="1920" height="992" alt="image" src="https://github.com/user-attachments/assets/01745617-b8eb-4d07-a7a1-1b4dac3990bc" />
+
+
+<img width="1920" height="992" alt="image" src="https://github.com/user-attachments/assets/b08822b7-6e56-4450-89fa-48609a41c2c4" />
+
+
+<img width="1920" height="992" alt="image" src="https://github.com/user-attachments/assets/66060116-8478-4e91-b7ea-b1410d5da841" />
+
+
+
